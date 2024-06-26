@@ -45,7 +45,9 @@ This project utilizes machine learning techniques to predict the age and gender 
 ## Files
 
 - `model.ipynb`: Jupyter Notebook for model training and evaluation.
-- `gui.py`: Python script for GUI implementation using Tkinter.
+- `gui.py`: Python script for GUI implementation usgng Tkinter.
+- For gui.py convert the model file into h5 format then only the gui file will run.
+  .. The file wasn't added because the size was to big.
 
 ## Contributing
 
